@@ -1,4 +1,4 @@
-# Halo ![Hand GIF](https://media.tenor.com/wIgzB05gu5sAAAAC/hand-gif.gif)
+# Hello <img src='https://media.tenor.com/InfbZnZgATIAAAAj/hand-gif.gif' alt='Hi' width="20"/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanwew&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
