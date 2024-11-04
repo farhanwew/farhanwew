@@ -1,4 +1,4 @@
-# Hello <img src='https://media.tenor.com/InfbZnZgATIAAAAj/hand-gif.gif' alt='Hi' width="20"/>
+# Hello i'm Farhan<img src='https://media.tenor.com/InfbZnZgATIAAAAj/hand-gif.gif' alt='Hi' width="20"/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanwew&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
@@ -14,4 +14,5 @@
 <!-- 
 # 📊 GitHub Stats: -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=farhanwew&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=farhanwew&theme=dark&hide_border=true)<br/> -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=farhanwew&theme=dark&hide_border=true)<br/> 
+
