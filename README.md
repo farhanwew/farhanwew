@@ -1,6 +1,7 @@
 # Hello i'm Farhan<img src='https://media.tenor.com/InfbZnZgATIAAAAj/hand-gif.gif' alt='Hi' width="20"/>
 
-👋 Hi! I'm a passionate Informatics Engineering student with a focus on data science and AI. I love building solutions that turn data into actionable insights and exploring the latest in AI technologies. I'm constantly learning and eager to collaborate on projects that make a real-world impact. Let's connect and innovate together! 🚀
+👋 Hi! I'm a passionate AI Engineering student with a focus on data science and AI. I love building solutions that turn data into actionable insights and exploring the latest in AI technologies. 
+Let's connect and innovate together! 🚀
 
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  -->
