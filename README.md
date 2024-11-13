@@ -12,9 +12,9 @@ Let's connect and innovate together! 🚀
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- # 💻 Tech Stack: -->
-<!-- 
-# 📊 GitHub Stats: -->
-<!-- ![](https://github-readme-stats.vercel.app/api?username=farhanwew&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=farhanwew&theme=dark&hide_border=true)<br/> 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://kaggle.com/farhanwew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="farhanwew" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/farhan17wicakso1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="farhan17wicakso1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/farweeew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farweeew" height="30" width="40" /></a>
+</p>
