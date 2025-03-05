@@ -6,7 +6,7 @@ Let's connect and innovate together! 🚀
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  -->
 ---
-![](https://camo.githubusercontent.com/ad84f64007a962116d17e75563e51e5c6941b8bff22f67ab3b3d208480ac97e4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d66617268616e776577267468656d653d6461726b26686964655f626f726465723d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanwew&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- [![](https://visitcount.itsvg.in/api?id=farhanwew&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
