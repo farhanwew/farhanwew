@@ -1,11 +1,12 @@
 # Hello i'm Farhan <img src='https://media.tenor.com/InfbZnZgATIAAAAj/hand-gif.gif' alt='Hi' width="20"/>
 
-👋 Hi! I'm a passionate **AI Engineering undergraduate student** with a strong focus on **Data Science, Machine Learning, and Artificial Intelligence**.  
-I enjoy building data-driven solutions, experimenting with intelligent systems, and translating complex data into actionable insights.
+👋 Hi! I'm a passionate **AI Engineering undergraduate student** with a strong focus on **Data Science, Machine Learning, and Artificial Intelligence**.  I enjoy building data-driven solutions, experimenting with intelligent systems, and translating complex data into actionable insights.
 
-🌐 **Personal Website / Portfolio**  
-Visit my personal website to explore my projects, technical background, and ongoing work in AI and data engineering:  
-👉 https://farhanwew.github.io/Farhan-Wicaksono/
+**Personal site**
+Explore my projects and work:
+
+👉 [https://farhan-wicaksono.me](https://farhan-wicaksono.me)
+
 
 Let's connect and innovate together! 🚀
 
