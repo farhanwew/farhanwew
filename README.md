@@ -2,13 +2,8 @@
 
 👋 Hi! I'm a passionate **AI Engineering undergraduate student** with a strong focus on **Data Science, Machine Learning, and Artificial Intelligence**.  I enjoy building data-driven solutions, experimenting with intelligent systems, and translating complex data into actionable insights.
 
-**Personal site**
-Explore my projects and work:
 
-👉 [https://farhan-wicaksono.me](https://farhan-wicaksono.me)
-
-
-Let's connect and innovate together! 🚀
+Let's connect and innovate together
 
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanwew&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
